@@ -25,7 +25,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Tip_calculator-gif-maker](https://user-images.githubusercontent.com/78925894/150674251-4fdfc8d3-3418-403c-937b-97c343970517.gif)
+![Gratuity App ezgif com-gif-maker](https://user-images.githubusercontent.com/78925894/150757099-c29e3359-2ca3-440f-a3a6-7716be0fa9bd.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
